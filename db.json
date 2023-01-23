@@ -44,7 +44,7 @@
 "canitidad": 10
 
 },
-
+{
 "claveproducto":7
 "nombreproducto":"Galletas emperador sabor chocolate"
 "precio": 16
@@ -59,7 +59,7 @@
 "canitidad": 20
 
 },
-
+{
 "claveproducto":9
 "nombreproducto":"Jugo Del valle sabor mango"
 "precio": 28.9
@@ -74,7 +74,7 @@
 "canitidad": 10
 
 },
-
+{
 "claveproducto":11
 "nombreproducto":"Horse Bebida energetica 600 ml"
 "precio": 25.9
@@ -89,7 +89,7 @@
 "canitidad": 10
 
 },
-
+{
 "claveproducto":13
 "nombreproducto":"Salsa Herdez"
 "precio": 25.9
@@ -104,7 +104,7 @@
 "canitidad": 78
 
 },
-
+{
 "claveproducto":15
 "nombreproducto":"Salsa de tomate herdez"
 "precio": 15
@@ -119,7 +119,7 @@
 "canitidad": 10
 
 },
-
+{
 "claveproducto":17
 "nombreproducto":"Chocolate Carlos V"
 "precio": 25.9
@@ -134,7 +134,7 @@
 "canitidad": 16
 
 },
-
+{
 "claveproducto":19
 "nombreproducto":"Tutsi pop paleta"
 "precio":  2
