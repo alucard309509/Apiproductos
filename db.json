@@ -2,8 +2,8 @@
 {
 "claveproducto":1
 "nombreproducto":"Gatorade"
-"precio" 25.9
-"canitidad" 20
+"precio": 25.9
+"canitidad": 20
  	
 },
 
@@ -17,8 +17,8 @@
 {
 "claveproducto":3
 "nombreproducto":"Gatorade sabor frutas y moras"
-"precio" 40
-"canitidad" 50
+"precio": 40
+"canitidad": 50
  	
 },
 
@@ -32,8 +32,8 @@
 {
 "claveproducto":5
 "nombreproducto":"Garrafon 20 lts"
-"precio" 40
-"canitidad" 22
+"precio": 40
+"canitidad": 22
  	
 },
 
@@ -47,8 +47,8 @@
 
 "claveproducto":7
 "nombreproducto":"Galletas emperador sabor chocolate"
-"precio" 16
-"canitidad" 70
+"precio": 16
+"canitidad": 70
  	
 },
 
@@ -62,8 +62,8 @@
 
 "claveproducto":9
 "nombreproducto":"Jugo Del valle sabor mango"
-"precio" 28.9
-"canitidad" 60
+"precio": 28.9
+"canitidad": 60
  	
 },
 
@@ -77,8 +77,8 @@
 
 "claveproducto":11
 "nombreproducto":"Horse Bebida energetica 600 ml"
-"precio" 25.9
-"canitidad" 20
+"precio": 25.9
+"canitidad": 20
  	
 },
 
@@ -92,8 +92,8 @@
 
 "claveproducto":13
 "nombreproducto":"Salsa Herdez"
-"precio" 25.9
-"canitidad" 20
+"precio": 25.9
+"canitidad": 20
  	
 },
 
@@ -107,8 +107,8 @@
 
 "claveproducto":15
 "nombreproducto":"Salsa de tomate herdez"
-"precio" 15
-"canitidad" 40
+"precio": 15
+"canitidad": 40
  	
 },
 
@@ -122,8 +122,8 @@
 
 "claveproducto":17
 "nombreproducto":"Chocolate Carlos V"
-"precio" 25.9
-"canitidad" 20
+"precio": 25.9
+"canitidad": 20
  	
 },
 
@@ -137,8 +137,8 @@
 
 "claveproducto":19
 "nombreproducto":"Tutsi pop paleta"
-"precio"  2
-"canitidad" 890
+"precio":  2
+"canitidad": 890
  	
 },
 
