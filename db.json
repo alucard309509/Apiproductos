@@ -1,41 +1,39 @@
 {
- "prod:"[
-{
-"claveproducto":1,
-"nombreproducto":"Gatorade",
-"precio": 25.9,
-"canitidad": 20
- 	
-},
+ "prod":[
+    {
+    "claveproducto":1,
+    "nombreproducto":"Gatorade",
+    "precio": 25.9,
+    "canitidad": 20
+    },
+    {
+    "claveproducto":2,
+    "nombreproducto":"Bonafont 600 ml",
+    "precio": 10.9,
+    "canitidad": 10
+    },
+    {
+    "claveproducto":3,
+    "nombreproducto":"Gatorade sabor frutas y moras",
+    "precio": 40,
+    "canitidad": 50
 
-{
-"claveproducto":2,
-"nombreproducto":"Bonafont 600 ml",
-"precio": 10.9,
-"canitidad": 10
+    },
 
-},
-{
-"claveproducto":3,
-"nombreproducto":"Gatorade sabor frutas y moras",
-"precio": 40,
-"canitidad": 50
- 	
-},
+    {
+    "claveproducto":4,
+    "nombreproducto":"Galletas maria",
+    "precio": 19.9,
+    "canitidad": 45
 
-{
-"claveproducto":4,
-"nombreproducto":"Galletas maria",
-"precio": 19.9,
-"canitidad": 45
+    },
+    {
+    "claveproducto":5,
+    "nombreproducto":"Garrafon 20 lts",
+    "precio": 40,
+    "canitidad": 22
 
-},
-{
-"claveproducto":5,
-"nombreproducto":"Garrafon 20 lts",
-"precio": 40,
-"canitidad": 22
- 	
-}]
+    }
+  ]
 
 }
