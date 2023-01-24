@@ -1,4 +1,5 @@
-[ 
+{
+ "prod"[
 {
 "claveproducto":1,
 "nombreproducto":"Gatorade",
@@ -35,6 +36,6 @@
 "precio": 40,
 "canitidad": 22
  	
-}
+}]
 
-]
+}
